@@ -6,6 +6,7 @@ https://streamable.com/b6hmti
 
 ## Dependencies
 - Qbox/QBcore
+- InteractSound or XSound
 
 ## Installation
 1. Download the resource
